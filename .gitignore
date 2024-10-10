@@ -1,0 +1,33 @@
+## Ignore Visual Studio files
+.vs/
+*.vsix
+*.vsixmanifest
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Ignore build and debug files
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+## Ignore NuGet packages
+packages/
+
+## Ignore Resharper files
+*_Resharper.*
+
+## Ignore code coverage files
+*.coverage
+
+## Ignore Visual Studio Code files
+.vscode/
+
+## Ignore other files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
